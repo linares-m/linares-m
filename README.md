@@ -1,0 +1,2 @@
+- 👋 Hi, I’m mo
+- 🌱 I’m currently honing my JS skills and gearing up to dive into Node and D3
